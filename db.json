@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "title": "Publish a new blog",
+      "done": true,
+      "id": 1
+    },
+    {
+      "title": "Buy food for dinner",
+      "done": false,
+      "id": 2
+    },
+    {
+      "title": "Call Marie at 10.00 PM",
+      "done": false,
+      "id": 3
+    },
+    {
+      "title": "Write a react blog post",
+      "done": false,
+      "id": 4
+    }
+  ]
+}
