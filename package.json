@@ -4,8 +4,7 @@
   "description": "Todo app json API",
   "main": "server.js",
   "scripts": {
-    "start" : "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "author": "Shalom Effiom",
   "license": "MIT",
