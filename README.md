@@ -27,6 +27,10 @@ Also when doing requests, its good to know that
 <br />
 <br />
 
+## Base URL
+[https://todo-app-json-api.herokuapp.com/tasks](https://todo-app-json-api.herokuapp.com/tasks)
+<br />
+<br />
 
 ## Routes
 
